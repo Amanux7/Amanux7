@@ -58,12 +58,7 @@
   <!-- Optimized Languages Card -->
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanux7&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&hide_border=true" />
 </p>
----
-### 🤝 Let's Connect
-<p align="left">
-<a href="mailto:aiexperience8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://uxterity.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanux7&theme=tokyonight&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&hide_border=true" width="100%" />
 </p>
