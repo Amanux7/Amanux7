@@ -1,3 +1,4 @@
+<!-- HEADER: SYSTEM STATUS -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&height=70&lines=AMAN+SINGH+|+AI+RESEARCHER;FOUNDER+OF+UXTERITY;UX+DESIGN+ARCHITECT;BUILDING+THE+FUTURE+OF+VEDA-ai" alt="System Header" />
 
@@ -11,7 +12,8 @@
 
 ---
 
-## 🏗️ Core Architectures & Neural Engines
+<!-- BENTO GRID: CORE ARCHITECTURES -->
+## 🏗️ Neural Architectures & Human Systems
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -37,27 +39,25 @@
 
 <br/>
 
+<!-- TECH STACK: SYSTEM CONFIGURATION -->
 ## 🧬 System Configuration [v2.0.26]
-```json
-{
-  "AI_RESEARCH": ["PyTorch", "TensorFlow", "Deep Learning", "LLM Architectures"],
-  "UX_DESIGN": ["Figma", "Design Systems", "HCI", "Cinematic Motion"],
-  "CORE_ENGINE": ["Python", "TypeScript", "Next.js", "FastAPI", "MongoDB"],
-  "AESTHETICS": "Futuristic / Minimalist / Dark Mode"
-}
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,mongodb,ts,react,nextjs,tailwind,figma,threejs,ae" />
+</p>
 
 <br>
 
+<!-- ANALYTICAL INSIGHTS: HIGH-STABILITY RECONSTRUCTION -->
 ## 📊 Analytical Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanux7&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&hide_border=true&include_all_commits=true&v=2026" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanux7&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&hide_border=true&v=2026" width="45%" />
+  <!-- Activity Graph: Generally more stable than standard stats cards -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanux7&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00D2FF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanux7&theme=tokyonight&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&hide_border=true&v=2026" width="100%" />
+  <!-- Streak Stats (Confirmed working in your screenshot) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanux7&theme=tokyonight&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&hide_border=true" width="100%" />
 </p>
 
 <br>
