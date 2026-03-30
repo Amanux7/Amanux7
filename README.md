@@ -1,9 +1,6 @@
-<!-- HEADER: DYNAMIC SYSTEM INITIALIZATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&height=70&lines=AMAN+SINGH+|+AI+RESEARCHER;FOUNDER+OF+UXTERITY;UX+DESIGN+ARCHITECT;BUILDING+THE+FUTURE+OF+VEDA-ai" alt="System Header" />
-</p>
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&height=70&lines=AMAN+SINGH+|+AI+RESEARCHER;FOUNDER+OF+UXTERITY;UX+DESIGN+ARCHITECT;BUILDING+THE+FUTURE+OF+VEDA-ai" alt="System Header" />
+
   <h3>⚡ Engineering Human-Centric Intelligence</h3>
   <p>
     <a href="https://uxterity.com"><b>DEPLOYED PORTFOLIO</b></a> • 
@@ -14,7 +11,6 @@
 
 ---
 
-<!-- PROJECT ARCHITECTURE: BENTO GRID -->
 ## 🏗️ Core Architectures & Neural Engines
 <table border="0">
   <tr>
@@ -41,7 +37,6 @@
 
 <br/>
 
-<!-- UNIQUE TECH STACK: SYSTEM CONFIGURATION STYLE -->
 ## 🧬 System Configuration [v2.0.26]
 ```json
 {
@@ -50,24 +45,27 @@
   "CORE_ENGINE": ["Python", "TypeScript", "Next.js", "FastAPI", "MongoDB"],
   "AESTHETICS": "Futuristic / Minimalist / Dark Mode"
 }
-<!-- ANALYTICAL INSIGHTS: THE PERMANENT FIX -->
+```
 
-📊 Analytical Insights
+<br>
+
+## 📊 Analytical Insights
+
 <p align="center">
-<!-- Use high-availability links with cache-busters to fix the broken image issue -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAmanux7%26show_icons%3Dtrue%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00D2FF%26icon_color%3D00D2FF%26text_color%3DFFFFFF%26hide_border%3Dtrue%26cache_seconds%3D1800%26v%3D20260330" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAmanux7%26layout%3Dcompact%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00D2FF%26text_color%3DFFFFFF%26hide_border%3Dtrue%26cache_seconds%3D1800%26v%3D20260330" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanux7&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&hide_border=true&include_all_commits=true&v=2026" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanux7&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&hide_border=true&v=2026" width="45%" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAmanux7%26theme%3Dreact%26background%3D0D1117%26stroke%3D00D2FF%26ring%3D00D2FF%26fire%3D00D2FF%26currStreakLabel%3D00D2FF%26hide_border%3Dtrue%26v%3D20260330" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanux7&theme=tokyonight&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&hide_border=true&v=2026" width="100%" />
 </p>
 
-<!-- FOOTER: DATA TERMINAL -->
+<br>
+
+---
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dreact%26bg_color%3D0D1117%26text_color%3D00D2FF" alt="Daily Insight" />
-
-
-<sub><b>SYNC COMPLETE:</b> MARCH 2026 | <b>OPERATOR:</b> AMAN SINGH | <b>FOUNDATION:</b> UXTERITY</sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&text_color=00D2FF" alt="Daily Insight" />
+  <br>
+  <sub><b>SYNC COMPLETE:</b> MARCH 2026 | <b>OPERATOR:</b> AMAN SINGH (JAVI) | <b>FOUNDATION:</b> UXTERITY</sub>
 </div>
