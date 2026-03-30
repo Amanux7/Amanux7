@@ -1,73 +1,73 @@
-<!-- TOP RADIANT HEADER -->
+<!-- HEADER: DYNAMIC SYSTEM INITIALIZATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&height=60&lines=AMAN+SINGH;AI+RESEARCHER+;UX+DESIGN+ARCHITECT;FOUNDER+OF+UXTERITY" alt="Aman Singh Branding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=900&height=70&lines=AMAN+SINGH+|+AI+RESEARCHER;FOUNDER+OF+UXTERITY;UX+DESIGN+ARCHITECT;BUILDING+THE+FUTURE+OF+VEDA-ai" alt="System Header" />
 </p>
 
 <div align="center">
-  <strong>Founder of UXterity Design Code Studio</strong> • <strong>AI Researcher from Delhi</strong>
-  <br />
+  <h3>⚡ Engineering Human-Centric Intelligence</h3>
   <p>
-    <a href="https://uxterity.com">🌐 Portfolio</a> &nbsp;•&nbsp; 
-    <a href="mailto:aiexperience8@gmail.com">📩 Direct Mail</a> &nbsp;•&nbsp; 
-    <a href="https://instagram.com/ux_amanfx">📸 @ux_amanfx</a>
+    <a href="https://uxterity.com"><b>DEPLOYED PORTFOLIO</b></a> • 
+    <a href="mailto:aiexperience8@gmail.com"><b>ENCRYPTED MAIL</b></a> • 
+    <a href="https://instagram.com/ux_amanfx"><b>VISUAL FEED</b></a>
   </p>
 </div>
 
-<hr />
+---
 
-<!-- BENTO BOX PROJECT GRID -->
-## 🏗️ Neural Architectures & Systems
+<!-- PROJECT ARCHITECTURE: BENTO GRID -->
+## 🏗️ Core Architectures & Neural Engines
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 VEDA-ai</h4>
-      <p><em>AI Video Generation Engine.</em> High-fidelity text-to-video synthesis with native audio integration.</p>
+      <h4>📽️ VEDA-ai</h4>
+      <p><i>The Generative Vision Engine.</i> A state-of-the-art platform for high-fidelity video synthesis and native audio integration.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🧠 UCGA</h4>
-      <p><em>Unified Cognitive Graph Architecture.</em> A framework for AGI, AI Agents, and Graph-Native systems.</p>
+      <p><i>Unified Cognitive Graph Architecture.</i> A graph-native framework designed for AGI development and autonomous agentic systems.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🏏 CricVision-AI</h4>
-      <p><em>Explainable ML.</em> Predictive analytics for match outcomes and tournament results using deep learning.</p>
+      <p><i>Predictive ML.</i> Utilizing Explainable AI (XAI) to model professional cricket outcomes and tournament performance metrics.</p>
     </td>
     <td width="50%" valign="top">
       <h4>💻 LifeOps OS</h4>
-      <p><em>Local-First AI.</em> A synthesis of specialized domain agents to augment decision-making.</p>
+      <p><i>Augmented Intelligence.</i> A local-first OS synthesizing domain-specific agents to optimize human decision-making workflows.</p>
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
-<!-- RESEARCH PULSE SECTION -->
-## 🧬 Research Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,mongodb,js,ts,react,nextjs,tailwind,figma,threejs" />
-</p>
+<!-- UNIQUE TECH STACK: SYSTEM CONFIGURATION STYLE -->
+## 🧬 System Configuration [v2.0.26]
+```json
+{
+  "AI_RESEARCH": ["PyTorch", "TensorFlow", "Deep Learning", "LLM Architectures"],
+  "UX_DESIGN": ["Figma", "Design Systems", "HCI", "Cinematic Motion"],
+  "CORE_ENGINE": ["Python", "TypeScript", "Next.js", "FastAPI", "MongoDB"],
+  "AESTHETICS": "Futuristic / Minimalist / Dark Mode"
+}
+<!-- ANALYTICAL INSIGHTS: THE PERMANENT FIX -->
 
-<br />
-
-<!-- ANALYTICAL INSIGHTS: HIGH RELIABILITY FIX -->
-## 📊 Analytical Insights
+📊 Analytical Insights
 <p align="center">
-  <!-- Optimized Stats Card with high-availability parameters -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amanux7&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&hide_border=true&include_all_commits=true" />
-  <!-- Optimized Languages Card -->
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanux7&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&hide_border=true" />
+<!-- Use high-availability links with cache-busters to fix the broken image issue -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAmanux7%26show_icons%3Dtrue%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00D2FF%26icon_color%3D00D2FF%26text_color%3DFFFFFF%26hide_border%3Dtrue%26cache_seconds%3D1800%26v%3D20260330" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAmanux7%26layout%3Dcompact%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00D2FF%26text_color%3DFFFFFF%26hide_border%3Dtrue%26cache_seconds%3D1800%26v%3D20260330" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanux7&theme=tokyonight&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&hide_border=true" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAmanux7%26theme%3Dreact%26background%3D0D1117%26stroke%3D00D2FF%26ring%3D00D2FF%26fire%3D00D2FF%26currStreakLabel%3D00D2FF%26hide_border%3Dtrue%26v%3D20260330" width="100%" />
 </p>
 
-<br />
+<!-- FOOTER: DATA TERMINAL -->
 
-<!-- PROFESSIONAL FOOTER -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-  <br />
-  <sub>Last Sync: 2026 | Developed by Aman Singh</sub>
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dreact%26bg_color%3D0D1117%26text_color%3D00D2FF" alt="Daily Insight" />
+
+
+<sub><b>SYNC COMPLETE:</b> MARCH 2026 | <b>OPERATOR:</b> AMAN SINGH | <b>FOUNDATION:</b> UXTERITY</sub>
 </div>
