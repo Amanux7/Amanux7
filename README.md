@@ -1,26 +1,36 @@
 <div align="center">
 
-# 👋 Hello, I'm Aman Singh
+# Aman Singh
 
 ### Forward Deployed Engineer • AI Systems Builder • UX Engineer
 
-> **Building human-centered AI systems that bridge design, engineering, and intelligence.**
-
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+VEGA+AI;AI+Engineering+%7C+Backend+Development;FastAPI+%7C+Python+%7C+Distributed+Systems;Designing+Products+People+Love" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Human-Centered+AI+Systems;Creating+VEGA+AI;Python+%7C+FastAPI+%7C+Distributed+Systems;Designing+Products+People+Love" />
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=Amanux7&style=for-the-badge&color=0ea5e9"/>
-  </a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Amanux7&style=flat-square&color=0ea5e9"/>
+
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# About
 
 ```yaml
 Name: Aman Singh
@@ -32,109 +42,114 @@ Role:
 
 Currently Building:
   - VEGA AI
-  - AI-powered Developer Tools
-  - Human-Centered AI Systems
+  - AI Developer Tools
+  - Intelligent Workflows
 
 Learning:
   - Distributed Systems
   - Kubernetes
-  - AI Infrastructure
   - System Design
+  - Cloud Infrastructure
 
-Location:
-  India 🇮🇳
+Mission:
+  Build AI products that combine
+  engineering excellence with
+  exceptional user experience.
 ```
 
 ---
 
-# ⚡ Current Focus
+# Current Focus
 
-- 🧠 Building **AI-powered products**
-- ⚙️ Learning **production backend engineering**
-- 🚀 Mastering **FastAPI, Python, Docker & Kubernetes**
-- 📚 Studying **System Design & Distributed Systems**
-- 🌍 Contributing to **Open Source**
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,flask" />
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" />
-</p>
-
-## AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Claude-6B46C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-</p>
-
-## DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
-</p>
-
-## Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects" />
-</p>
+- 🚀 Building **VEGA AI**
+- 🤖 Developing AI-powered applications
+- ⚡ Mastering FastAPI & backend engineering
+- ☁️ Learning cloud-native systems
+- 📚 Deep diving into distributed systems
+- 🌍 Contributing to open source
 
 ---
 
-# 🌟 Featured Projects
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase"/>
+</p>
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Claude-purple?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Gemini-blue?style=flat-square"/>
+
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git"/>
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
+</p>
+
+---
+
+# Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🚀 **VEGA AI** | Human-Centered AI Platform |
-| 🤖 **UXAI** | AI Assistant for UX Designers |
-| 🎨 **UXterity** | Product Design & AI Studio |
-| ⚡ **AI Agents** | Autonomous Multi-Agent Systems |
+| 🚀 VEGA AI | Human-Centered AI Platform |
+| 🤖 UXAI | AI Assistant for Designers |
+| 🎨 UXterity | Product Design Studio |
+| ⚡ AI Agents | Multi-Agent Systems |
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amanux7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanux7&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Amanux7&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanux7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanux7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Activity
+# Contribution Graph
 
 <p align="center">
 
@@ -144,53 +159,40 @@ Location:
 
 ---
 
-# 🐍 Contribution Snake
+# GitHub Metrics
 
-<p align="center">
+> This section will become active after we configure GitHub Actions.
 
-<img src="https://raw.githubusercontent.com/Amanux7/Amanux7/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+- ✅ Contribution Snake
+- ✅ Repository Metrics
+- ✅ Achievement Wall
+- ✅ Activity Timeline
+- ✅ Coding Habits
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Roadmap
 
 - ✅ Become a Full Stack AI Engineer
-- ✅ Master Python & FastAPI
+- ✅ Master FastAPI
 - ✅ Learn Kubernetes
-- ⏳ Build VEGA AI
-- ⏳ Contribute to Open Source
-- ⏳ Reach 1,000+ GitHub Contributions
+- 🚧 Build VEGA AI
+- 🚧 Launch AI SaaS
+- 🚧 Reach 1000+ Contributions
+- 🚧 Contribute to Open Source
 
 ---
 
-# 🤝 Connect With Me
+# Philosophy
 
-<p align="center">
-
-<a href="https://linkedin.com/in/digitalamanux7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://uxterity.com">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge"/>
-</a>
-
-<a href="mailto:amanux66@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+> **Technology should amplify human intelligence—not replace it.**
 
 ---
 
 <div align="center">
 
-> *"Technology should amplify human intelligence, not replace it."*
+### Thanks for visiting 👋
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=See+you+in+the+next+commit...;git+commit+-m+%22Build+the+Future%22"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=See+you+in+the+next+commit...;Building+the+future+one+commit+at+a+time." />
 
 </div>
