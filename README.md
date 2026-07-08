@@ -1,216 +1,126 @@
-<!-- ===================================================== -->
-<!--               AMAN SINGH • GITHUB PROFILE              -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=HELLO+HUMAN+👋;I'M+AMAN+SINGH;Forward+Deployed+Engineer;UX+Engineer+%7C+AI+Researcher;Building+VEGA+AI;Creating+Human-Centered+AI+Systems" />
+# 👋 Hello, I'm Aman Singh
 
-<br>
+### Forward Deployed Engineer • AI Systems Builder • UX Engineer
 
-<h1>
-BUILDING THE FUTURE OF AI
-</h1>
+> **Building human-centered AI systems that bridge design, engineering, and intelligence.**
 
-<h3>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+VEGA+AI;AI+Engineering+%7C+Backend+Development;FastAPI+%7C+Python+%7C+Distributed+Systems;Designing+Products+People+Love" />
+</p>
 
-Design × Code × Intelligence
-
-</h3>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f7ff"/>
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# ⚡ System Status
+# 🚀 About Me
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```yaml
+Name: Aman Singh
 
-System              ONLINE
+Role:
+  - Forward Deployed Engineer
+  - UX Engineer
+  - AI Researcher
 
-Mission             Building VEGA AI
+Currently Building:
+  - VEGA AI
+  - AI-powered Developer Tools
+  - Human-Centered AI Systems
 
-Role                Forward Deployed Engineer
+Learning:
+  - Distributed Systems
+  - Kubernetes
+  - AI Infrastructure
+  - System Design
 
-Location            India 🇮🇳
-
-Experience          5+ Years
-
-Current Focus
-
-✔ Python
-
-✔ FastAPI
-
-✔ Distributed Systems
-
-✔ AI Engineering
-
-✔ Product Design
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Location:
+  India 🇮🇳
 ```
 
 ---
 
-# 🧠 AI Terminal
+# ⚡ Current Focus
 
-```bash
-
-> boot vega
-
-Loading Runtime...
-
-████████████████████████ 100%
-
-Loading Python...
-
-✔ Complete
-
-Loading FastAPI...
-
-✔ Complete
-
-Loading Docker...
-
-✔ Complete
-
-Loading PostgreSQL...
-
-✔ Complete
-
-Loading AI Models...
-
-✔ OpenAI
-
-✔ Claude
-
-✔ Gemini
-
-Loading Knowledge Base...
-
-✔ Complete
-
-System Status
-
-ONLINE
-
-```
+- 🧠 Building **AI-powered products**
+- ⚙️ Learning **production backend engineering**
+- 🚀 Mastering **FastAPI, Python, Docker & Kubernetes**
+- 📚 Studying **System Design & Distributed Systems**
+- 🌍 Contributing to **Open Source**
 
 ---
 
-# 🚀 Current Mission
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Building
-
-• AI Products
-
-• Developer Tools
-
-• Autonomous Agents
-
-• AI UX Systems
-
-Learning
-
-• Distributed Systems
-
-• System Design
-
-• Kubernetes
-
-• Cloud Infrastructure
-
-Mission Status
-
-█████████████░░░░ 83%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ## Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" />
 </p>
-
----
 
 ## Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,flask"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,flask" />
 </p>
-
----
 
 ## Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" />
 </p>
 
----
-
-## AI Stack
+## AI & Machine Learning
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/Claude-5A4FCF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
----
+<p>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Claude-6B46C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+</p>
 
 ## DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github"/>
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
 </p>
-
----
 
 ## Design
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects"/>
-
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects" />
 </p>
 
 ---
 
-# 📈 Engineering Dashboard
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 **VEGA AI** | Human-Centered AI Platform |
+| 🤖 **UXAI** | AI Assistant for UX Designers |
+| 🎨 **UXterity** | Product Design & AI Studio |
+| ⚡ **AI Agents** | Autonomous Multi-Agent Systems |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -224,7 +134,7 @@ Mission Status
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -244,70 +154,18 @@ Mission Status
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📡 Live Engineering Progress
-
-| Skill | Progress |
-|--------|----------|
-| Python | █████████████ 95% |
-| AI Engineering | ███████████░ 90% |
-| UX Engineering | ████████████ 96% |
-| FastAPI | █████████░░ 82% |
-| Docker | ████████░░ 75% |
-| Kubernetes | ██████░░░░ 60% |
-| Distributed Systems | ██████░░░░ 58% |
-| System Design | ████████░░ 72% |
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 VEGA AI | Human-Centered AI Operating System |
-| 🤖 UXAI | AI Assistant for UX Designers |
-| 🎨 UXterity | Product Design Agency |
-| 📊 AI Dashboard | AI Analytics Platform |
-| ⚡ AI Agents | Autonomous Multi-Agent Systems |
-
----
-
 # 🎯 2026 Goals
 
-```text
-
-[x] Become Full Stack AI Engineer
-
-[x] Master FastAPI
-
-[x] Learn Kubernetes
-
-[x] Build Production AI Products
-
-[x] Launch VEGA AI
-
-[x] Open Source Contributions
-
-[ ] 1000+ GitHub Contributions
-
-[ ] Build SaaS
-
-[ ] Become Forward Deployed Engineer
-
-```
+- ✅ Become a Full Stack AI Engineer
+- ✅ Master Python & FastAPI
+- ✅ Learn Kubernetes
+- ⏳ Build VEGA AI
+- ⏳ Contribute to Open Source
+- ⏳ Reach 1,000+ GitHub Contributions
 
 ---
 
-# 🌍 Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -315,12 +173,8 @@ Mission Status
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge"/>
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -333,12 +187,10 @@ Mission Status
 
 <div align="center">
 
-> "Any sufficiently advanced technology is indistinguishable from magic."
+> *"Technology should amplify human intelligence, not replace it."*
 
-**— Arthur C. Clarke**
+### ⭐ Thanks for visiting my profile!
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;See+you+in+the+next+commit.;git+commit+-m+%22Build+the+Future%22"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=See+you+in+the+next+commit...;git+commit+-m+%22Build+the+Future%22"/>
 
 </div>
