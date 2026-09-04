@@ -10,11 +10,11 @@
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/digitalamanux">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://www.uxterity.com/">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square"/>
 </a>
 
